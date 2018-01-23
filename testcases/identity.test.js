@@ -1,4 +1,4 @@
-const identity = require('./identity');
+const identity = require('../sourcecode/identity');
 
 describe('Basic elementary tests', () => {
   it('it should returns same as its argument', () => {

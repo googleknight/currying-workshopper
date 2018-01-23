@@ -1,4 +1,4 @@
-const binary = require('./binary');
+const binary = require('../sourcecode/binary');
 
 describe('Basic elementary tests', () => {
   it('it should returns sum of its argument', () => {
